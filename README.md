@@ -29,9 +29,15 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 
 ## Features and Interfaces
 
-1. Login and Sign-Up
+1. Login and Sign-Up: Used for user authentication and registration
 
 ![Login](https://github.com/jaivsh/Agrisim/assets/93859359/95ebeea1-46ee-4b44-8198-3675e8b9ee2a)
+
+
+2. Dashboard: This screen serves as a comprehensive display for all farm entries created by a specific user. Users can conveniently access their existing farms through this interface and seamlessly create new farm entries as well.
+
+![Mobile screen Background 3d gradient blue](https://github.com/jaivsh/Agrisim/assets/93859359/bc63d9dd-6398-493a-ae7e-a4bba82e2df5)
+
 
 
 
