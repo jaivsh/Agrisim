@@ -27,3 +27,12 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 
 **Rahul Khatri**: Engaging in thorough business research and collaborating on the development of a compelling pitch for the hackathon.
 
+## Features and Interfaces
+
+1. Login and Sign-Up
+
+![Login](https://github.com/jaivsh/Agrisim/assets/93859359/95ebeea1-46ee-4b44-8198-3675e8b9ee2a)
+
+
+
+
