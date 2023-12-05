@@ -69,7 +69,8 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 
 ## Need Help?
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jaivardhan-shukla-3633a2190/), know more about me at prathamesh.co
+For any inquiries related to the project or to learn more about me, please don't hesitate to reach out on [LinkedIn](https://www.linkedin.com/in/jaivardhan-shukla-3633a2190/) 🚀. I look forward to connecting with you! 🌐
+
 
 
 
