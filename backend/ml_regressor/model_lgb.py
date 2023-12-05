@@ -1,9 +1,10 @@
 import pandas as pd
-df = pd.read_csv("/content/drive/MyDrive/AgriSim/fertilizer.csv")
+from sklearn.model_selection import train_test_split
+import lightgbm as lgb
+import numpy as np
+df = pd.read_csv("backend/data/fertilizer.csv")
 df.head()
 
-# X = df.drop("Fertilizer Name", axis=1)
-# y = df["Fertilizer Name"]
 df = df.rename({'Fertilizer Name': 'Fertilizer','Crop Type': 'Crop_Type','Soil Type': 'Soil_Type'}, axis=1)
 
 # One hot encoding
@@ -17,16 +18,12 @@ X = df.drop("Fertilizer",axis=1)
 y = df["Fertilizer"]
 
 # Splitting data into test and train
-from sklearn.model_selection import train_test_split
 
 X_train, x_test, y_train, y_test = train_test_split(X, y, test_size = 0.2,shuffle=True)
-
-import lightgbm as lgb
 
 model = lgb.LGBMClassifier()
 model.fit(X_train,y_train)
 
-import numpy as np
 def get_input(x):
     x_structure = {
         "Temparature": 0, "Humidity": 1, "Moisture": 2, "Nitrogen": 3,
