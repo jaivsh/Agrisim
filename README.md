@@ -29,14 +29,14 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 
 ## Features and Interfaces
 
-1. Login and Sign-Up:
+1. **Login and Sign-Up:**
 
 - Used for user authentication and registration
 
 ![Login](https://github.com/jaivsh/Agrisim/assets/93859359/95ebeea1-46ee-4b44-8198-3675e8b9ee2a)
 
 
-2. Dashboard:
+2. **Dashboard:**
 
 - This screen acts as a comprehensive display showcasing all farm entries created by a specific user.
 - Users can conveniently access their existing farms using the intuitive interface.
@@ -46,7 +46,7 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 
 
 
-3. Add new Entry:
+3. **Add new Entry:**
    
 - Effortlessly add a new farm entry through this user-friendly option.
 - The API automatically fetches essential geo-data and details on soil and land characteristics when the user initiates a new entry, eliminating the need for manual input.
@@ -56,6 +56,15 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 - The data fetching process for the new farm entry is efficiently completed through this comprehensive workflow.
 
 ![Login-2](https://github.com/jaivsh/Agrisim/assets/93859359/219057c2-37cf-44ab-83ae-28011c0cd910)
+
+
+4. **Prediction and Suggestions screen:**
+
+- Ingenious Crop Prediction: The system predicts the most financially rewarding crops for the farm by considering the current market value of crop products.
+- Comprehensive Land Assessment: It evaluates the land conditions to enhance the accuracy of crop recommendations.
+- Sustainable Practices Forecast: The system anticipates and recommends sustainable practices crucial for maintaining the long-term productivity of the crops.
+- Diversification Guidance: It suggests practices aimed at increasing crop diversification, contributing to a more resilient and varied agricultural portfolio.
+- Holistic Agricultural Planning: The system offers a comprehensive approach to agricultural planning, considering both economic and environmental factors for optimal results.
 
 
 
