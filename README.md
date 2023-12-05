@@ -11,7 +11,7 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 - FastAPI (Python): Backend API Development
 - SQLModel (ORM): Database Ops
 - Scikit-Learn: Machine Learning Models
-- Jupyter Notebook: Prototyping ML Pipelines
+- Python: Prototyping ML Pipelines
 - ARCore: AR Features
 
 ## Team Information/ Co-contributors
