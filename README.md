@@ -29,17 +29,31 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 
 ## Features and Interfaces
 
-1. Login and Sign-Up: Used for user authentication and registration
+1. Login and Sign-Up:
+
+- Used for user authentication and registration
 
 ![Login](https://github.com/jaivsh/Agrisim/assets/93859359/95ebeea1-46ee-4b44-8198-3675e8b9ee2a)
 
 
-2. Dashboard: This screen serves as a comprehensive display for all farm entries created by a specific user. Users can conveniently access their existing farms through this interface and seamlessly create new farm entries as well.
+2. Dashboard:
 
-![Mobile screen Background 3d gradient blue](https://github.com/jaivsh/Agrisim/assets/93859359/bc63d9dd-6398-493a-ae7e-a4bba82e2df5)
+- This screen acts as a comprehensive display showcasing all farm entries created by a specific user.
+- Users can conveniently access their existing farms using the intuitive interface.
+- Seamlessly create new farm entries with ease through this user-friendly platform.
+
+![Login-3](https://github.com/jaivsh/Agrisim/assets/93859359/8d46d0b9-b9c8-4ebc-a394-fa79f9ddd4c2)
 
 
-3. Add new Entry: With this feature, users can effortlessly create a new farm entry. The API seamlessly retrieves essential geo-data and information on soil and land characteristics upon initiation of the new entry request. This eliminates the need for manual input, significantly streamlining the application's usability for farmers. After the initial data retrieval, users are prompted to utilize the AR-input feature, allowing them to traverse their farm's perimeter. The app records this movement, calculates the shape, and provides detailed area information for the farmland. This comprehensive process ensures efficient data acquisition for the new farm entry.
+
+3. Add new Entry:
+   
+- Effortlessly add a new farm entry through this user-friendly option.
+- The API automatically fetches essential geo-data and details on soil and land characteristics when the user initiates a new entry, eliminating the need for manual input.
+- Streamlined usability for farmers as all requirements for manual input are truncated.
+- Upon completion of initial data fetching, users are prompted to employ the AR-input feature.
+- Users can move over their farm's perimeter using AR-input for the app to record and subsequently calculate the shape and area details of the farmland.
+- The data fetching process for the new farm entry is efficiently completed through this comprehensive workflow.
 
 ![Login-2](https://github.com/jaivsh/Agrisim/assets/93859359/219057c2-37cf-44ab-83ae-28011c0cd910)
 
