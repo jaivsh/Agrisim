@@ -67,6 +67,11 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 - Holistic Agricultural Planning: The system offers a comprehensive approach to agricultural planning, considering both economic and environmental factors for optimal results.
 
 
+## Need Help?
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jaivardhan-shukla-3633a2190/), know more about me at prathamesh.co
+
+
 
 
 
