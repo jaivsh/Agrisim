@@ -39,6 +39,12 @@ An AI-driven android app that helps farmers in yield optimization and crop diver
 ![Mobile screen Background 3d gradient blue](https://github.com/jaivsh/Agrisim/assets/93859359/bc63d9dd-6398-493a-ae7e-a4bba82e2df5)
 
 
+3. Add new Entry: With this feature, users can effortlessly create a new farm entry. The API seamlessly retrieves essential geo-data and information on soil and land characteristics upon initiation of the new entry request. This eliminates the need for manual input, significantly streamlining the application's usability for farmers. After the initial data retrieval, users are prompted to utilize the AR-input feature, allowing them to traverse their farm's perimeter. The app records this movement, calculates the shape, and provides detailed area information for the farmland. This comprehensive process ensures efficient data acquisition for the new farm entry.
+
+![Login-2](https://github.com/jaivsh/Agrisim/assets/93859359/219057c2-37cf-44ab-83ae-28011c0cd910)
+
+
+
 
 
 
